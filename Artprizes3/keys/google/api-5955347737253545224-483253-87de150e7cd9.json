@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-5955347737253545224-483253",
+  "private_key_id": "87de150e7cd916ba437a83085d819edc060c614a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/ryBOQuAuiUN1\nzqxKvl0PAlZtW668b9J4WLGQw6oPZNOy5xYoaOhYE/AAPmTHnAFyllAQwBgnvyZW\nw1WZjiKo0PJXkw3r/Jp5bL238u7sNuXzGX3hWT5zGb31mN3vYQusKGzOQGPy9Yyw\naoGqtUmPpoggGBNh0DCJhQWpbQyB6nNQc0ituPfDPvo/xqV6zoTnEy6kv6uCuEz2\nmtJjun7N2rDBzjLG0wp08LKXC8DRy9z8rLeDU3o0gzAigvcZmZDlOi6KEiZdc8Xw\nxHamGNZZvyfNKvNF4cnObfIAoKwext712WgUcoQctRIFnNw5qmpGOx6pYpcelT69\nydeM5T1hAgMBAAECggEAAdRYkRanUBpkR/AQiegWOEnz7DhHSyogDqD+FN0hNuNl\n99unxPv3V7vc+wudZ6BQDTltCzPiJyL2aTaVDxGhuA3Cel5/cASprsYAa4yIhj2h\n5TeVkXyKEYwp2Xm7iIjbFSoPm8pWid+ZF6f0k94GFTZoLzI7oR/dDrrzymGtkGHZ\nuyz7prO77NgroEenz8CyoePE9LzxsSJc14PDU/V8QmXgW7tjIoAWRqu82ear4FzP\n4EbctM9bnk+b/DIbJrEf7rRYMQuoIyiRGVmLlTnjNhPA/hMjzhDhZe+trz5Xg6xl\nIot5MIF36qy1dSCgZ6MVGHY/utralOLnvEsxsiHwZwKBgQDoTEgEMsLywpkOR9jg\n16/mCtMDu+j4KH3jhTEXj+QfzNoBBtDOcoiohs3F+fu0kfQRjK3DS5fs5b+5gHg1\n4f937da9PnBqmOmxJplZsdc+yxrFRrKXLv0u3vwQd0fAvGw+br3UKyrUyZvlf5Fa\noVyTsCq5i97BRvPOZWggH3sODwKBgQDTPf5RgFQZo3/fGMKNbEX1LlmbDBO1+wzJ\nrBnICbut1i2Z/p+5GD3JXuKo0napZWs9YjAS17tgbFe0GokT+RMw+oyd837e1g33\nWzJNi+dfgFT1HXAE1IPTsdFljxD8kUC3eL0lAcWRY59cebt68E2J1FZNVcF083dw\nQ4mf9xRtjwKBgBKsLw3HVsxUwCDZvaE1NTp0nEmsjSmFd7kWN8ABHQFBYjS664Xs\nxvdk/p1vXsBBCzFt8XnFVc0BGsw6e285X2OwhpZnsnmfGQnYZHNFTFwLz3cUG77z\nU/60heZ88BOaEcli9XdckPDR0+o6uuBiICLvAkAv8hPvNCHfHOOYJDgZAoGAdIHy\nrJzsxZ9JvZB4bWvUQeAoh71nea1XZjvHlG7Z1o0UZaTsDzhxi4kL1jUOQWuwdBCd\nlybpL8tRrAIerKdpkFAAEnXj+Z9x4IWp/t8045VyRibQS7myY6XlafA4XDT4zriH\nCcwqXX/muyhg4PN8sJIub0TnCEvoCkEVvOaXm70CgYEAmbckO//rgS8jq5AwuCBH\nOHm7xz0J2Z1M1IYwio/4Pfvp5pe+PDUZJtRupRytOPdBxq9xREhKKbkffujtIIKM\nVk1gVvyoN3SnrsNdlkNcCWHcTlHXwmXTBHBig5W5d7QxHyerRnAKwL8S+Rhh0G61\n0EfGIAwem3VWB3IXYhsCJhc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "artprizes@api-5955347737253545224-483253.iam.gserviceaccount.com",
+  "client_id": "107038018365099766608",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/artprizes%40api-5955347737253545224-483253.iam.gserviceaccount.com"
+}

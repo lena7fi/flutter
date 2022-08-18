@@ -1,0 +1,8 @@
+app_identifier("com.artprizes.ios") # The bundle identifier of your app
+apple_id("acrow@crowtech.com.au") # Your Apple email address
+
+itc_team_id("20835802") # App Store Connect Team ID
+team_id("25TWQNW4US") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
